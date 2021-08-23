@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+
+
+.textField:hover {
+    cursor: pointer;
+}
+.barraBusqueda{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
