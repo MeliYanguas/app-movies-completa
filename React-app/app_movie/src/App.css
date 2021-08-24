@@ -2,11 +2,10 @@
     text-align: center;
 }
 
-
 .textField:hover {
     cursor: pointer;
 }
-.barraBusqueda{
+.searchBar{
     padding: 20px;
     display: flex;
     justify-content: center;
