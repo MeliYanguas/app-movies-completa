@@ -9,4 +9,4 @@ _Para inicializar el proyecto de React, dentro de "React-app\app_movie" ejecutar
 ```
 npm start
 ```
-Las **dependencias** de ambos proyectos se encuentran dentro de package.json 
+Las **dependencias** de ambos proyectos se encuentran dentro del package.json 
