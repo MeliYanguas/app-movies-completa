@@ -10,3 +10,6 @@ _Para inicializar el proyecto de React, dentro de "React-app\app_movie" ejecutar
 npm start
 ```
 Las **dependencias** de ambos proyectos se encuentran dentro del package.json 
+
+
+El archivo configDEMO.json debe ser remplazado por un config.json con los datos de la base de DATOS
